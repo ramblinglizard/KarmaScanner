@@ -1,0 +1,21 @@
+# Ignore configuration file with API credentials
+config.json
+
+# Ignore output JSON files
+*.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

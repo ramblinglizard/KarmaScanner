@@ -89,11 +89,6 @@ KarmaScanner features a built-in **Settings GUI** to manage your credentials eas
     - Get your key from [Google AI Studio](https://makersuite.google.com/app/apikey).
     - Paste it into the Settings tab to unlock AI features.
 
----
-
-## 📸 Screenshots
-
-_(Add screenshots of your beautiful UI here)_
 
 ---
 

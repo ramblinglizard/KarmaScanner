@@ -90,8 +90,6 @@ KarmaScanner features a built-in **Settings GUI** to manage your credentials eas
     - Paste it into the Settings tab to unlock AI features.
 
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
